@@ -36,6 +36,7 @@ This project provides a visual analysis of job listings in the AI and Data field
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-jobs-visualization.git
-cd ai-jobs-visualization
+git clone https://github.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025.git
+cd 700-JOBs-Data-of-AI-Data-Fields-2025
+
 
