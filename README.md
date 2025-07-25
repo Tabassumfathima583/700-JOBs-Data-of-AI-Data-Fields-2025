@@ -23,6 +23,7 @@ This project provides a visual analysis of job listings in the AI and Data field
 ---
 
 ## 📸 Visual Examples
+/screen shots of outputs/
 
 ## 🚀 How to Run This Project
 
