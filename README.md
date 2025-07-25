@@ -24,14 +24,6 @@ This project provides a visual analysis of job listings in the AI and Data field
 
 ## 📸 Visual Examples
 
-### ✅ Top 10 Job Titles
-![Top Jobs](images/top_jobs.png)
-
-### ✅ Word Cloud of Common Terms
-![Word Cloud](images/wordcloud.png)
-
----
-
 ## 🚀 How to Run This Project
 
 ### 1. Clone the repository
