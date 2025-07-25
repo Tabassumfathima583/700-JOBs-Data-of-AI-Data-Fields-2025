@@ -14,17 +14,16 @@ This project provides a visual analysis of job listings in the AI and Data field
 
 ## 🔍 Key Insights Visualized
 
-### Top 10 AI/Data Job Titles  
-![Top 10 AI/Data Jobs](screenshots/top_10_jobs.png)
+# Screenshot Links (Direct Image Access)
 
-### Top 10 Hiring Locations  
-![Top 10 Hiring Locations](screenshots/top_10_hiring_locations.png)
+- [Top 10 AI/Data Jobs](https://raw.githubusercontent.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025/main/screen%20shots/Top%2010%20Jobs.png)
 
-### Top 5 Work Types (Remote, Hybrid, etc.)  
-![Top 5 Work Types](screenshots/top_5_work_types.png)
+- [Top 10 Hiring Locations](https://raw.githubusercontent.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025/main/screen%20shots/Top%2010%20Hiring%20locations.png)
 
-### Most Common Terms in Job Descriptions (Word Cloud)  
-![Word Cloud of Job Descriptions](screenshots/word_cloud.png)
+- [Top 5 Work Types](https://raw.githubusercontent.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025/main/screen%20shots/Top%205%20work%20types.png)
+
+- [Word Cloud of Job Descriptions](https://raw.githubusercontent.com/Tabassumfathima583/700-JOBs-Data-of-AI-Data-Fields-2025/main/screen%20shots/Word%20cloud.png)
+
 
 ---
 
